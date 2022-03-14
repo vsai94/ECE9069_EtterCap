@@ -1,4 +1,4 @@
-# ARP Poisoninging attack using EtterCap
+# ARP Poisonig attack using EtterCap
 
 ## What is ARP?
 ARP stands for Address Resolution Protocol, it’s a protocol that maps a dynamic  IP address to a fixed physical machine address, also known as the MAC address in a LAN network. 
